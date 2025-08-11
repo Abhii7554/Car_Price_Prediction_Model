@@ -1,8 +1,29 @@
 # 🚗 Car Price Prediction using Machine Learning
 
-**One-line summary:** Predict the selling price of used cars using features such as brand, car age, fuel type, transmission, kilometers driven, and previous owners.
+Predict selling price of used cars using Python and ML models like Linear Regression and Random Forest.
 
-## Project Overview
-This project trains machine learning models to predict the selling price of a used car (in lakhs) using a dataset of car listings. It includes data cleaning, exploratory data analysis (EDA), feature engineering, model training (Linear Regression and Random Forest), evaluation, and saving the best model for reuse.
+---
 
-## Project Structure
+##  Project Overview
+- Cleaned and analyzed dataset of used cars — [variables list]
+- Engineered features like car age and brand
+- Trained models, evaluated via R², MAE, RMSE
+- Saved the best model for future use
+
+---
+
+##  Visual Explorations
+![Selling Price Distribution]
+<img width="693" height="470" alt="selling_price_histogram" src="https://github.com/user-attachments/assets/09ffafd8-721a-4704-ab49-90fce81f8c4c" />
+
+![Correlation Heatmap]
+<img width="638" height="530" alt="corr_heatmap" src="https://github.com/user-attachments/assets/eb1eaf4c-0d9d-4100-9748-26de9f8504ae" />
+
+---
+
+##  Sample Prediction
+```python
+# Sample features:
+Fuel Type: Petrol  
+...
+Predicted Price: 5.23 lakhs
