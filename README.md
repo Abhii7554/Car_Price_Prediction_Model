@@ -13,10 +13,10 @@ Predict selling price of used cars using Python and ML models like Linear Regres
 ---
 
 ##  Visual Explorations
-![Selling Price Distribution]
+Selling Price Distribution
 <img width="693" height="470" alt="selling_price_histogram" src="https://github.com/user-attachments/assets/09ffafd8-721a-4704-ab49-90fce81f8c4c" />
 
-![Correlation Heatmap]
+Correlation Heatmap
 <img width="638" height="530" alt="corr_heatmap" src="https://github.com/user-attachments/assets/eb1eaf4c-0d9d-4100-9748-26de9f8504ae" />
 
 ---
